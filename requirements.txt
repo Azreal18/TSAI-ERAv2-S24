@@ -1,0 +1,9 @@
+scipy
+numpy
+pillow
+torch
+transformers==4.25.1
+diffusers
+huggingface_hub
+accelerate
+open_clip_torch
