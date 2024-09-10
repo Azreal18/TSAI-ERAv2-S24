@@ -42,3 +42,6 @@ pip install -r requirements.txt
 
 The application is Deployed on huggingface and can be accesed here :- [Demo](https://huggingface.co/spaces/Azreal18/Stable_Diffusion-Textual_Inversion)
 ![image](https://github.com/Azreal18/TSAI-ERAv2-S24/blob/main/assets/Gradio_app.png)
+
+
+Also shared This on my LinkedIN : [Linkedin](https://www.linkedin.com/posts/viraj-bhanushali-3339201ab_machinelearning-deeplearning-stablediffusion-activity-7237370703992242177-gTL2?utm_source=share&utm_medium=member_desktop)
